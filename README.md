@@ -1,2 +1,2 @@
 # InputViewController
-Sample app for UIInputViewController
+Sample app using UIInputViewController
